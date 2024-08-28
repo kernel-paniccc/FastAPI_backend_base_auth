@@ -1,0 +1,5 @@
+alembic==1.13.2
+fastapi==0.112.2
+fastapi_users==13.0.0
+python-dotenv==1.0.1
+SQLAlchemy==2.0.31
