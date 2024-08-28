@@ -1,1 +1,1 @@
-my simpleautentification for FastAPI webapp
+My simple auth for FastAPI webapp
